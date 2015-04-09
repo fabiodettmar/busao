@@ -1,0 +1,80 @@
+#textEditbox_20
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 20px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#textEditbox_21
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 70px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#textEditbox_22
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 120px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#textEditbox_23
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 170px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#button_24
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 230px;
+	width : 252px;
+	-khtml-border-radius : 5px;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	background-color : #575756;
+	border-radius : 5px;
+	color : #ffffff;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+

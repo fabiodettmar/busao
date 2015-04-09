@@ -1,0 +1,114 @@
+#textEditbox_14
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 20px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#textEditbox_15
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 70px;
+	width : 252px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#button_16
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 120px;
+	width : 252px;
+	-khtml-border-radius : 5px;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	background-color : #575756;
+	border-radius : 5px;
+	color : #ffffff;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	padding : 0;
+
+}
+
+#textheader_17
+{
+	height : 21px;
+	left : 41px;
+	overflow : hidden;
+	position : absolute;
+	top : 160px;
+	width : 241px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 18px;
+	line-height : 21px;
+	margin-top : 0;
+	width : 100%;
+
+}
+
+#textheader_17 a
+{
+	color : #575756;
+	text-decoration : none;
+
+}
+
+#button_18
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 190px;
+	width : 86px;
+	-khtml-border-radius : 5px;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	background-color : #575756;
+	border-radius : 5px;
+	color : #ffffff;
+	font-family : Arial,sans-serif;
+	font-size : 16px;
+	padding : 0;
+
+}
+
+#button_19
+{
+	height : 40px;
+	left : 190px;
+	overflow : hidden;
+	position : absolute;
+	top : 190px;
+	width : 96px;
+	-khtml-border-radius : 5px;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	background-color : #575756;
+	border-radius : 5px;
+	color : #ffffff;
+	font-family : Arial,sans-serif;
+	font-size : 16px;
+	padding : 0;
+
+}
+

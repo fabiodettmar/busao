@@ -1,0 +1,137 @@
+#textheader_9
+{
+	height : 28px;
+	left : 105px;
+	overflow : hidden;
+	position : absolute;
+	top : 33px;
+	width : 106px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 24px;
+	line-height : 28px;
+	margin-top : 0;
+	width : 100%;
+
+}
+
+#textheader_9 a
+{
+	color : #575756;
+	text-decoration : none;
+
+}
+
+#textheader_10
+{
+	height : 21px;
+	left : 57px;
+	overflow : hidden;
+	position : absolute;
+	top : 65px;
+	width : 210px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 18px;
+	line-height : 21px;
+	margin-top : 0;
+	width : 100%;
+
+}
+
+#textheader_10 a
+{
+	color : #575756;
+	text-decoration : none;
+
+}
+
+#textheader_11
+{
+	height : 21px;
+	left : 104px;
+	overflow : hidden;
+	position : absolute;
+	top : 90px;
+	width : 115px;
+	color : #575756;
+	font-family : Arial,sans-serif;
+	font-size : 18px;
+	line-height : 21px;
+	margin-top : 0;
+	width : 100%;
+
+}
+
+#textheader_11 a
+{
+	color : #575756;
+	text-decoration : none;
+
+}
+
+#div_12
+{
+	height : 290px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 120px;
+	width : 252px;
+	background-color : #dadada;
+	border-color : #878787;
+	border-style : solid;
+	border-width : 1px;
+
+}
+
+#accordion_13
+{
+	height : 270px;
+	left : 6px;
+	overflow : hidden;
+	position : absolute;
+	top : 10px;
+	width : 240px;
+
+}
+
+#accordion_13 div {
+	height : 150px;
+
+}
+
+#accordion_13.ui-accordion .ui-accordion-header a{
+	font-family : Arial,sans-serif;
+	font-size : 11px;
+	padding-bottom : 12px;
+	padding-left : 32px;
+	padding-top : 12px;
+
+}
+
+#accordion_13.ui-accordion .ui-accordion-header{
+	height : 38px;
+
+}
+
+#button_25
+{
+	height : 40px;
+	left : 34px;
+	overflow : hidden;
+	position : absolute;
+	top : 420px;
+	width : 252px;
+	-khtml-border-radius : 5px;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	background-color : #575756;
+	border-radius : 5px;
+	color : #ffffff;
+	font-family : Arial,sans-serif;
+	font-size : 20px;
+	padding : 0;
+
+}
+
