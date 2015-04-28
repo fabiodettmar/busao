@@ -1,0 +1,6233 @@
+﻿[
+    {
+        "sequential": 0,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9465",
+        "longitude": "-43.2574"
+    },
+    {
+        "sequential": 1,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9464",
+        "longitude": "-43.2572"
+    },
+    {
+        "sequential": 2,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9463",
+        "longitude": "-43.2571"
+    },
+    {
+        "sequential": 3,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9463",
+        "longitude": "-43.2571"
+    },
+    {
+        "sequential": 4,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9461",
+        "longitude": "-43.2569"
+    },
+    {
+        "sequential": 5,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.946",
+        "longitude": "-43.2568"
+    },
+    {
+        "sequential": 6,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9453",
+        "longitude": "-43.2564"
+    },
+    {
+        "sequential": 7,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9449",
+        "longitude": "-43.2561"
+    },
+    {
+        "sequential": 8,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9447",
+        "longitude": "-43.256"
+    },
+    {
+        "sequential": 9,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9447",
+        "longitude": "-43.256"
+    },
+    {
+        "sequential": 10,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9435",
+        "longitude": "-43.2551"
+    },
+    {
+        "sequential": 11,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9435",
+        "longitude": "-43.2551"
+    },
+    {
+        "sequential": 12,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9437",
+        "longitude": "-43.2547"
+    },
+    {
+        "sequential": 13,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9437",
+        "longitude": "-43.2547"
+    },
+    {
+        "sequential": 14,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9438",
+        "longitude": "-43.2545"
+    },
+    {
+        "sequential": 15,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9439",
+        "longitude": "-43.2543"
+    },
+    {
+        "sequential": 16,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9439",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": 17,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.944",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": 18,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.944",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": 19,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9437",
+        "longitude": "-43.2541"
+    },
+    {
+        "sequential": 20,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9434",
+        "longitude": "-43.254"
+    },
+    {
+        "sequential": 21,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9433",
+        "longitude": "-43.254"
+    },
+    {
+        "sequential": 22,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9427",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": 23,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9426",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": 24,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9426",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": 25,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9425",
+        "longitude": "-43.2534"
+    },
+    {
+        "sequential": 26,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9424",
+        "longitude": "-43.2533"
+    },
+    {
+        "sequential": 27,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9424",
+        "longitude": "-43.2533"
+    },
+    {
+        "sequential": 28,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.942",
+        "longitude": "-43.2529"
+    },
+    {
+        "sequential": 29,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9416",
+        "longitude": "-43.2524"
+    },
+    {
+        "sequential": 30,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9413",
+        "longitude": "-43.2521"
+    },
+    {
+        "sequential": 31,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9413",
+        "longitude": "-43.2521"
+    },
+    {
+        "sequential": 32,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9412",
+        "longitude": "-43.252"
+    },
+    {
+        "sequential": 33,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9412",
+        "longitude": "-43.252"
+    },
+    {
+        "sequential": 34,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9408",
+        "longitude": "-43.2507"
+    },
+    {
+        "sequential": 35,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9406",
+        "longitude": "-43.2503"
+    },
+    {
+        "sequential": 36,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9406",
+        "longitude": "-43.2503"
+    },
+    {
+        "sequential": 37,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9406",
+        "longitude": "-43.2501"
+    },
+    {
+        "sequential": 38,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9405",
+        "longitude": "-43.25"
+    },
+    {
+        "sequential": 39,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9403",
+        "longitude": "-43.2497"
+    },
+    {
+        "sequential": 40,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9403",
+        "longitude": "-43.2497"
+    },
+    {
+        "sequential": 41,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.94",
+        "longitude": "-43.2493"
+    },
+    {
+        "sequential": 42,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9399",
+        "longitude": "-43.2491"
+    },
+    {
+        "sequential": 43,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9399",
+        "longitude": "-43.2491"
+    },
+    {
+        "sequential": 44,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9397",
+        "longitude": "-43.2488"
+    },
+    {
+        "sequential": 45,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9397",
+        "longitude": "-43.2488"
+    },
+    {
+        "sequential": 46,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9395",
+        "longitude": "-43.2486"
+    },
+    {
+        "sequential": 47,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9394",
+        "longitude": "-43.2485"
+    },
+    {
+        "sequential": 48,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9394",
+        "longitude": "-43.2485"
+    },
+    {
+        "sequential": 49,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9393",
+        "longitude": "-43.2483"
+    },
+    {
+        "sequential": 50,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9391",
+        "longitude": "-43.2479"
+    },
+    {
+        "sequential": 51,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9388",
+        "longitude": "-43.2476"
+    },
+    {
+        "sequential": 52,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9388",
+        "longitude": "-43.2476"
+    },
+    {
+        "sequential": 53,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9386",
+        "longitude": "-43.2474"
+    },
+    {
+        "sequential": 54,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9385",
+        "longitude": "-43.2472"
+    },
+    {
+        "sequential": 55,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9385",
+        "longitude": "-43.2472"
+    },
+    {
+        "sequential": 56,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9382",
+        "longitude": "-43.2469"
+    },
+    {
+        "sequential": 57,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9382",
+        "longitude": "-43.2469"
+    },
+    {
+        "sequential": 58,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9377",
+        "longitude": "-43.2464"
+    },
+    {
+        "sequential": 59,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9377",
+        "longitude": "-43.2464"
+    },
+    {
+        "sequential": 60,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9372",
+        "longitude": "-43.2459"
+    },
+    {
+        "sequential": 61,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9372",
+        "longitude": "-43.2459"
+    },
+    {
+        "sequential": 62,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.937",
+        "longitude": "-43.2456"
+    },
+    {
+        "sequential": 63,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.937",
+        "longitude": "-43.2456"
+    },
+    {
+        "sequential": 64,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9367",
+        "longitude": "-43.2453"
+    },
+    {
+        "sequential": 65,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9367",
+        "longitude": "-43.2453"
+    },
+    {
+        "sequential": 66,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9361",
+        "longitude": "-43.2447"
+    },
+    {
+        "sequential": 67,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9357",
+        "longitude": "-43.2442"
+    },
+    {
+        "sequential": 68,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9357",
+        "longitude": "-43.2442"
+    },
+    {
+        "sequential": 69,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9353",
+        "longitude": "-43.2437"
+    },
+    {
+        "sequential": 70,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9353",
+        "longitude": "-43.2437"
+    },
+    {
+        "sequential": 71,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9345",
+        "longitude": "-43.243"
+    },
+    {
+        "sequential": 72,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9345",
+        "longitude": "-43.243"
+    },
+    {
+        "sequential": 73,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9343",
+        "longitude": "-43.2427"
+    },
+    {
+        "sequential": 74,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.934",
+        "longitude": "-43.2425"
+    },
+    {
+        "sequential": 75,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.934",
+        "longitude": "-43.2425"
+    },
+    {
+        "sequential": 76,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9334",
+        "longitude": "-43.2419"
+    },
+    {
+        "sequential": 77,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9334",
+        "longitude": "-43.2419"
+    },
+    {
+        "sequential": 78,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9331",
+        "longitude": "-43.2417"
+    },
+    {
+        "sequential": 79,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9331",
+        "longitude": "-43.2417"
+    },
+    {
+        "sequential": 80,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9331",
+        "longitude": "-43.2416"
+    },
+    {
+        "sequential": 81,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9331",
+        "longitude": "-43.2416"
+    },
+    {
+        "sequential": 82,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9331",
+        "longitude": "-43.2416"
+    },
+    {
+        "sequential": 83,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9327",
+        "longitude": "-43.2413"
+    },
+    {
+        "sequential": 84,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9327",
+        "longitude": "-43.2412"
+    },
+    {
+        "sequential": 85,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9327",
+        "longitude": "-43.2412"
+    },
+    {
+        "sequential": 86,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9325",
+        "longitude": "-43.241"
+    },
+    {
+        "sequential": 87,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9325",
+        "longitude": "-43.241"
+    },
+    {
+        "sequential": 88,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9323",
+        "longitude": "-43.2407"
+    },
+    {
+        "sequential": 89,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9321",
+        "longitude": "-43.2401"
+    },
+    {
+        "sequential": 90,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9319",
+        "longitude": "-43.2398"
+    },
+    {
+        "sequential": 91,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9318",
+        "longitude": "-43.2396"
+    },
+    {
+        "sequential": 92,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9318",
+        "longitude": "-43.2396"
+    },
+    {
+        "sequential": 93,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9318",
+        "longitude": "-43.2396"
+    },
+    {
+        "sequential": 94,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9316",
+        "longitude": "-43.2391"
+    },
+    {
+        "sequential": 95,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9314",
+        "longitude": "-43.2388"
+    },
+    {
+        "sequential": 96,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9312",
+        "longitude": "-43.2386"
+    },
+    {
+        "sequential": 97,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9309",
+        "longitude": "-43.2382"
+    },
+    {
+        "sequential": 98,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9309",
+        "longitude": "-43.2382"
+    },
+    {
+        "sequential": 99,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9307",
+        "longitude": "-43.238"
+    },
+    {
+        "sequential": 100,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9304",
+        "longitude": "-43.2377"
+    },
+    {
+        "sequential": 101,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9302",
+        "longitude": "-43.2375"
+    },
+    {
+        "sequential": 102,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9301",
+        "longitude": "-43.2375"
+    },
+    {
+        "sequential": 103,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9299",
+        "longitude": "-43.2373"
+    },
+    {
+        "sequential": 104,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9299",
+        "longitude": "-43.2373"
+    },
+    {
+        "sequential": 105,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9297",
+        "longitude": "-43.2372"
+    },
+    {
+        "sequential": 106,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.929",
+        "longitude": "-43.2368"
+    },
+    {
+        "sequential": 107,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9287",
+        "longitude": "-43.2367"
+    },
+    {
+        "sequential": 108,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9287",
+        "longitude": "-43.2367"
+    },
+    {
+        "sequential": 109,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9286",
+        "longitude": "-43.2366"
+    },
+    {
+        "sequential": 110,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9284",
+        "longitude": "-43.2365"
+    },
+    {
+        "sequential": 111,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9279",
+        "longitude": "-43.2362"
+    },
+    {
+        "sequential": 112,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9279",
+        "longitude": "-43.2362"
+    },
+    {
+        "sequential": 113,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9275",
+        "longitude": "-43.236"
+    },
+    {
+        "sequential": 114,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9272",
+        "longitude": "-43.2358"
+    },
+    {
+        "sequential": 115,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9269",
+        "longitude": "-43.2355"
+    },
+    {
+        "sequential": 116,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9264",
+        "longitude": "-43.2352"
+    },
+    {
+        "sequential": 117,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9264",
+        "longitude": "-43.2352"
+    },
+    {
+        "sequential": 118,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9262",
+        "longitude": "-43.2351"
+    },
+    {
+        "sequential": 119,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9262",
+        "longitude": "-43.2351"
+    },
+    {
+        "sequential": 120,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9261",
+        "longitude": "-43.235"
+    },
+    {
+        "sequential": 121,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9258",
+        "longitude": "-43.2348"
+    },
+    {
+        "sequential": 122,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9257",
+        "longitude": "-43.2347"
+    },
+    {
+        "sequential": 123,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9256",
+        "longitude": "-43.2346"
+    },
+    {
+        "sequential": 124,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9256",
+        "longitude": "-43.2346"
+    },
+    {
+        "sequential": 125,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9254",
+        "longitude": "-43.2344"
+    },
+    {
+        "sequential": 126,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9252",
+        "longitude": "-43.2341"
+    },
+    {
+        "sequential": 127,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2334"
+    },
+    {
+        "sequential": 128,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2334"
+    },
+    {
+        "sequential": 129,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9246",
+        "longitude": "-43.2332"
+    },
+    {
+        "sequential": 130,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9243",
+        "longitude": "-43.2329"
+    },
+    {
+        "sequential": 131,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2314"
+    },
+    {
+        "sequential": 132,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2314"
+    },
+    {
+        "sequential": 133,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2313"
+    },
+    {
+        "sequential": 134,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9232",
+        "longitude": "-43.231"
+    },
+    {
+        "sequential": 135,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9232",
+        "longitude": "-43.231"
+    },
+    {
+        "sequential": 136,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2305"
+    },
+    {
+        "sequential": 137,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2305"
+    },
+    {
+        "sequential": 138,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2304"
+    },
+    {
+        "sequential": 139,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2304"
+    },
+    {
+        "sequential": 140,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9233",
+        "longitude": "-43.2303"
+    },
+    {
+        "sequential": 141,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9234",
+        "longitude": "-43.2299"
+    },
+    {
+        "sequential": 142,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9234",
+        "longitude": "-43.2299"
+    },
+    {
+        "sequential": 143,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9236",
+        "longitude": "-43.2293"
+    },
+    {
+        "sequential": 144,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9237",
+        "longitude": "-43.2291"
+    },
+    {
+        "sequential": 145,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9237",
+        "longitude": "-43.2291"
+    },
+    {
+        "sequential": 146,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9237",
+        "longitude": "-43.229"
+    },
+    {
+        "sequential": 147,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9241",
+        "longitude": "-43.2281"
+    },
+    {
+        "sequential": 148,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9241",
+        "longitude": "-43.2281"
+    },
+    {
+        "sequential": 149,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9243",
+        "longitude": "-43.2275"
+    },
+    {
+        "sequential": 150,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9243",
+        "longitude": "-43.2275"
+    },
+    {
+        "sequential": 151,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9245",
+        "longitude": "-43.2272"
+    },
+    {
+        "sequential": 152,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9246",
+        "longitude": "-43.2269"
+    },
+    {
+        "sequential": 153,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2267"
+    },
+    {
+        "sequential": 154,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2267"
+    },
+    {
+        "sequential": 155,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2266"
+    },
+    {
+        "sequential": 156,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9249",
+        "longitude": "-43.2263"
+    },
+    {
+        "sequential": 157,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.226"
+    },
+    {
+        "sequential": 158,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.2258"
+    },
+    {
+        "sequential": 159,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.2258"
+    },
+    {
+        "sequential": 160,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.2257"
+    },
+    {
+        "sequential": 161,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9251",
+        "longitude": "-43.2254"
+    },
+    {
+        "sequential": 162,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9251",
+        "longitude": "-43.2254"
+    },
+    {
+        "sequential": 163,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9251",
+        "longitude": "-43.2253"
+    },
+    {
+        "sequential": 164,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9251",
+        "longitude": "-43.2253"
+    },
+    {
+        "sequential": 165,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.2251"
+    },
+    {
+        "sequential": 166,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.925",
+        "longitude": "-43.225"
+    },
+    {
+        "sequential": 167,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9249",
+        "longitude": "-43.2248"
+    },
+    {
+        "sequential": 168,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9248",
+        "longitude": "-43.2246"
+    },
+    {
+        "sequential": 169,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9248",
+        "longitude": "-43.2245"
+    },
+    {
+        "sequential": 170,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9247",
+        "longitude": "-43.2245"
+    },
+    {
+        "sequential": 171,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9246",
+        "longitude": "-43.2244"
+    },
+    {
+        "sequential": 172,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9245",
+        "longitude": "-43.2243"
+    },
+    {
+        "sequential": 173,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9245",
+        "longitude": "-43.2243"
+    },
+    {
+        "sequential": 174,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9244",
+        "longitude": "-43.2241"
+    },
+    {
+        "sequential": 175,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9244",
+        "longitude": "-43.2241"
+    },
+    {
+        "sequential": 176,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9242",
+        "longitude": "-43.224"
+    },
+    {
+        "sequential": 177,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9237",
+        "longitude": "-43.2234"
+    },
+    {
+        "sequential": 178,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9236",
+        "longitude": "-43.2233"
+    },
+    {
+        "sequential": 179,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9236",
+        "longitude": "-43.2233"
+    },
+    {
+        "sequential": 180,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9235",
+        "longitude": "-43.2232"
+    },
+    {
+        "sequential": 181,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9235",
+        "longitude": "-43.2232"
+    },
+    {
+        "sequential": 182,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9234",
+        "longitude": "-43.2231"
+    },
+    {
+        "sequential": 183,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.923",
+        "longitude": "-43.2226"
+    },
+    {
+        "sequential": 184,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.923",
+        "longitude": "-43.2226"
+    },
+    {
+        "sequential": 185,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9229",
+        "longitude": "-43.2224"
+    },
+    {
+        "sequential": 186,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9229",
+        "longitude": "-43.2224"
+    },
+    {
+        "sequential": 187,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9226",
+        "longitude": "-43.2221"
+    },
+    {
+        "sequential": 188,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9222",
+        "longitude": "-43.2217"
+    },
+    {
+        "sequential": 189,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9222",
+        "longitude": "-43.2217"
+    },
+    {
+        "sequential": 190,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9219",
+        "longitude": "-43.2214"
+    },
+    {
+        "sequential": 191,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9218",
+        "longitude": "-43.2212"
+    },
+    {
+        "sequential": 192,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9218",
+        "longitude": "-43.2212"
+    },
+    {
+        "sequential": 193,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9217",
+        "longitude": "-43.2211"
+    },
+    {
+        "sequential": 194,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9216",
+        "longitude": "-43.2209"
+    },
+    {
+        "sequential": 195,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9216",
+        "longitude": "-43.2209"
+    },
+    {
+        "sequential": 196,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9216",
+        "longitude": "-43.2207"
+    },
+    {
+        "sequential": 197,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9215",
+        "longitude": "-43.2206"
+    },
+    {
+        "sequential": 198,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9215",
+        "longitude": "-43.2206"
+    },
+    {
+        "sequential": 199,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9215",
+        "longitude": "-43.2205"
+    },
+    {
+        "sequential": 200,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9215",
+        "longitude": "-43.2205"
+    },
+    {
+        "sequential": 201,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9214",
+        "longitude": "-43.2202"
+    },
+    {
+        "sequential": 202,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9214",
+        "longitude": "-43.2202"
+    },
+    {
+        "sequential": 203,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9213",
+        "longitude": "-43.2196"
+    },
+    {
+        "sequential": 204,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9213",
+        "longitude": "-43.2196"
+    },
+    {
+        "sequential": 205,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9211",
+        "longitude": "-43.2188"
+    },
+    {
+        "sequential": 206,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9211",
+        "longitude": "-43.2188"
+    },
+    {
+        "sequential": 207,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9207",
+        "longitude": "-43.2175"
+    },
+    {
+        "sequential": 208,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9207",
+        "longitude": "-43.2174"
+    },
+    {
+        "sequential": 209,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9207",
+        "longitude": "-43.2174"
+    },
+    {
+        "sequential": 210,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9206",
+        "longitude": "-43.2173"
+    },
+    {
+        "sequential": 211,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9206",
+        "longitude": "-43.2173"
+    },
+    {
+        "sequential": 212,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9203",
+        "longitude": "-43.2166"
+    },
+    {
+        "sequential": 213,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9203",
+        "longitude": "-43.2166"
+    },
+    {
+        "sequential": 214,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9202",
+        "longitude": "-43.2164"
+    },
+    {
+        "sequential": 215,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9202",
+        "longitude": "-43.2164"
+    },
+    {
+        "sequential": 216,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9201",
+        "longitude": "-43.2162"
+    },
+    {
+        "sequential": 217,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.92",
+        "longitude": "-43.2159"
+    },
+    {
+        "sequential": 218,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.92",
+        "longitude": "-43.2159"
+    },
+    {
+        "sequential": 219,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9198",
+        "longitude": "-43.2154"
+    },
+    {
+        "sequential": 220,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9198",
+        "longitude": "-43.2154"
+    },
+    {
+        "sequential": 221,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9197",
+        "longitude": "-43.2151"
+    },
+    {
+        "sequential": 222,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9197",
+        "longitude": "-43.2151"
+    },
+    {
+        "sequential": 223,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9195",
+        "longitude": "-43.2147"
+    },
+    {
+        "sequential": 224,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9192",
+        "longitude": "-43.2141"
+    },
+    {
+        "sequential": 225,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9192",
+        "longitude": "-43.2141"
+    },
+    {
+        "sequential": 226,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9191",
+        "longitude": "-43.2139"
+    },
+    {
+        "sequential": 227,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9191",
+        "longitude": "-43.2138"
+    },
+    {
+        "sequential": 228,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9191",
+        "longitude": "-43.2138"
+    },
+    {
+        "sequential": 229,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.919",
+        "longitude": "-43.2137"
+    },
+    {
+        "sequential": 230,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9189",
+        "longitude": "-43.2134"
+    },
+    {
+        "sequential": 231,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9189",
+        "longitude": "-43.2134"
+    },
+    {
+        "sequential": 232,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9188",
+        "longitude": "-43.2133"
+    },
+    {
+        "sequential": 233,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9183",
+        "longitude": "-43.2124"
+    },
+    {
+        "sequential": 234,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9183",
+        "longitude": "-43.2124"
+    },
+    {
+        "sequential": 235,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.918",
+        "longitude": "-43.212"
+    },
+    {
+        "sequential": 236,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.918",
+        "longitude": "-43.212"
+    },
+    {
+        "sequential": 237,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9179",
+        "longitude": "-43.2119"
+    },
+    {
+        "sequential": 238,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9179",
+        "longitude": "-43.2118"
+    },
+    {
+        "sequential": 239,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9179",
+        "longitude": "-43.2118"
+    },
+    {
+        "sequential": 240,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9178",
+        "longitude": "-43.2117"
+    },
+    {
+        "sequential": 241,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9176",
+        "longitude": "-43.2115"
+    },
+    {
+        "sequential": 242,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9176",
+        "longitude": "-43.2115"
+    },
+    {
+        "sequential": 243,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9175",
+        "longitude": "-43.2112"
+    },
+    {
+        "sequential": 244,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9171",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": 245,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9171",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": 246,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9168",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": 247,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9168",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": 248,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9168",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": 249,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9167",
+        "longitude": "-43.2101"
+    },
+    {
+        "sequential": 250,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9167",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": 251,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9167",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": 252,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9166",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": 253,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9166",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": 254,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.916",
+        "longitude": "-43.2089"
+    },
+    {
+        "sequential": 255,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.916",
+        "longitude": "-43.2089"
+    },
+    {
+        "sequential": 256,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9156",
+        "longitude": "-43.2083"
+    },
+    {
+        "sequential": 257,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9156",
+        "longitude": "-43.2083"
+    },
+    {
+        "sequential": 258,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9151",
+        "longitude": "-43.2075"
+    },
+    {
+        "sequential": 259,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9151",
+        "longitude": "-43.2075"
+    },
+    {
+        "sequential": 260,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9148",
+        "longitude": "-43.2069"
+    },
+    {
+        "sequential": 261,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9147",
+        "longitude": "-43.2068"
+    },
+    {
+        "sequential": 262,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9146",
+        "longitude": "-43.2066"
+    },
+    {
+        "sequential": 263,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9146",
+        "longitude": "-43.2066"
+    },
+    {
+        "sequential": 264,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9144",
+        "longitude": "-43.2059"
+    },
+    {
+        "sequential": 265,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9142",
+        "longitude": "-43.2054"
+    },
+    {
+        "sequential": 266,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9142",
+        "longitude": "-43.2054"
+    },
+    {
+        "sequential": 267,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9142",
+        "longitude": "-43.2053"
+    },
+    {
+        "sequential": 268,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9141",
+        "longitude": "-43.2049"
+    },
+    {
+        "sequential": 269,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9141",
+        "longitude": "-43.2049"
+    },
+    {
+        "sequential": 270,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.914",
+        "longitude": "-43.2048"
+    },
+    {
+        "sequential": 271,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.914",
+        "longitude": "-43.2048"
+    },
+    {
+        "sequential": 272,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9139",
+        "longitude": "-43.2047"
+    },
+    {
+        "sequential": 273,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9139",
+        "longitude": "-43.2047"
+    },
+    {
+        "sequential": 274,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9138",
+        "longitude": "-43.2048"
+    },
+    {
+        "sequential": 275,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9136",
+        "longitude": "-43.2048"
+    },
+    {
+        "sequential": 276,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9126",
+        "longitude": "-43.2051"
+    },
+    {
+        "sequential": 277,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9124",
+        "longitude": "-43.2052"
+    },
+    {
+        "sequential": 278,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9124",
+        "longitude": "-43.2052"
+    },
+    {
+        "sequential": 279,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9123",
+        "longitude": "-43.205"
+    },
+    {
+        "sequential": 280,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9123",
+        "longitude": "-43.2046"
+    },
+    {
+        "sequential": 281,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9121",
+        "longitude": "-43.2041"
+    },
+    {
+        "sequential": 282,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9121",
+        "longitude": "-43.2041"
+    },
+    {
+        "sequential": 283,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9119",
+        "longitude": "-43.2035"
+    },
+    {
+        "sequential": 284,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9119",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": 285,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9118",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": 286,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+
+        "latitude": "-22.9117",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": 287,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9117",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": 288,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9117",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": 289,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.911",
+        "longitude": "-43.2037"
+    },
+    {
+        "sequential": 290,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9109",
+        "longitude": "-43.2037"
+    },
+    {
+        "sequential": 291,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9109",
+        "longitude": "-43.2037"
+    },
+    {
+        "sequential": 292,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9103",
+        "longitude": "-43.2039"
+    },
+    {
+        "sequential": 293,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9103",
+        "longitude": "-43.2039"
+    },
+    {
+        "sequential": 294,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.91",
+        "longitude": "-43.2029"
+    },
+    {
+        "sequential": 295,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.91",
+        "longitude": "-43.2029"
+    },
+    {
+        "sequential": 296,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9098",
+        "longitude": "-43.2022"
+    },
+    {
+        "sequential": 297,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9098",
+        "longitude": "-43.2022"
+    },
+    {
+        "sequential": 298,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9096",
+        "longitude": "-43.2016"
+    },
+    {
+        "sequential": 299,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9095",
+        "longitude": "-43.2012"
+    },
+    {
+        "sequential": 300,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9093",
+        "longitude": "-43.2008"
+    },
+    {
+        "sequential": 301,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9093",
+        "longitude": "-43.2008"
+    },
+    {
+        "sequential": 302,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9092",
+        "longitude": "-43.2003"
+    },
+    {
+        "sequential": 303,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9092",
+        "longitude": "-43.2003"
+    },
+    {
+        "sequential": 304,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9091",
+        "longitude": "-43.2"
+    },
+    {
+        "sequential": 305,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9091",
+        "longitude": "-43.2"
+    },
+    {
+        "sequential": 306,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9087",
+        "longitude": "-43.1986"
+    },
+    {
+        "sequential": 307,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9087",
+        "longitude": "-43.1986"
+    },
+    {
+        "sequential": 308,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9084",
+        "longitude": "-43.1977"
+    },
+    {
+        "sequential": 309,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9084",
+        "longitude": "-43.1977"
+    },
+    {
+        "sequential": 310,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9084",
+        "longitude": "-43.1975"
+    },
+    {
+        "sequential": 311,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9084",
+        "longitude": "-43.1975"
+    },
+    {
+        "sequential": 312,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9083",
+        "longitude": "-43.1971"
+    },
+    {
+        "sequential": 313,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9082",
+        "longitude": "-43.1971"
+    },
+    {
+        "sequential": 314,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.908",
+        "longitude": "-43.1963"
+    },
+    {
+        "sequential": 315,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.908",
+        "longitude": "-43.1963"
+    },
+    {
+        "sequential": 316,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9077",
+        "longitude": "-43.1954"
+    },
+    {
+        "sequential": 317,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9077",
+        "longitude": "-43.1954"
+    },
+    {
+        "sequential": 318,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9074",
+        "longitude": "-43.1944"
+    },
+    {
+        "sequential": 319,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9074",
+        "longitude": "-43.1944"
+    },
+    {
+        "sequential": 320,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9074",
+        "longitude": "-43.1943"
+    },
+    {
+        "sequential": 321,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9074",
+        "longitude": "-43.1943"
+    },
+    {
+        "sequential": 322,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9065",
+        "longitude": "-43.1945"
+    },
+    {
+        "sequential": 323,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9065",
+        "longitude": "-43.1945"
+    },
+    {
+        "sequential": 324,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9063",
+        "longitude": "-43.1946"
+    },
+    {
+        "sequential": 325,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9063",
+        "longitude": "-43.1946"
+    },
+    {
+        "sequential": 326,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9062",
+        "longitude": "-43.1943"
+    },
+    {
+        "sequential": 327,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9051",
+        "longitude": "-43.1909"
+    },
+    {
+        "sequential": 328,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9051",
+        "longitude": "-43.1909"
+    },
+    {
+        "sequential": 329,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.905",
+        "longitude": "-43.1907"
+    },
+    {
+        "sequential": 330,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.905",
+        "longitude": "-43.1907"
+    },
+    {
+        "sequential": 331,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9047",
+        "longitude": "-43.1896"
+    },
+    {
+        "sequential": 332,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9044",
+        "longitude": "-43.1887"
+    },
+    {
+        "sequential": 333,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9042",
+        "longitude": "-43.1882"
+    },
+    {
+        "sequential": 334,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9042",
+        "longitude": "-43.1882"
+    },
+    {
+        "sequential": 335,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9039",
+        "longitude": "-43.1873"
+    },
+    {
+        "sequential": 336,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9037",
+        "longitude": "-43.1864"
+    },
+    {
+        "sequential": 337,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9033",
+        "longitude": "-43.1854"
+    },
+    {
+        "sequential": 338,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9031",
+        "longitude": "-43.1846"
+    },
+    {
+        "sequential": 339,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9029",
+        "longitude": "-43.1839"
+    },
+    {
+        "sequential": 340,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9029",
+        "longitude": "-43.1839"
+    },
+    {
+        "sequential": 341,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9026",
+        "longitude": "-43.1831"
+    },
+    {
+        "sequential": 342,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9026",
+        "longitude": "-43.1831"
+    },
+    {
+        "sequential": 343,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9023",
+        "longitude": "-43.1821"
+    },
+    {
+        "sequential": 344,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9021",
+        "longitude": "-43.1814"
+    },
+    {
+        "sequential": 345,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9021",
+        "longitude": "-43.1814"
+    },
+    {
+        "sequential": 346,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9013",
+        "longitude": "-43.1791"
+    },
+    {
+        "sequential": 347,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9013",
+        "longitude": "-43.1791"
+    },
+    {
+        "sequential": 348,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9012",
+        "longitude": "-43.1781"
+    },
+    {
+        "sequential": 349,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9012",
+        "longitude": "-43.1781"
+    },
+    {
+        "sequential": 350,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9012",
+        "longitude": "-43.178"
+    },
+    {
+        "sequential": 351,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.901",
+        "longitude": "-43.1773"
+    },
+    {
+        "sequential": 352,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9009",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 353,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9009",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 354,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9009",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 355,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9009",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 356,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9006",
+        "longitude": "-43.1768"
+    },
+    {
+        "sequential": 357,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9006",
+        "longitude": "-43.1768"
+    },
+    {
+        "sequential": 358,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9003",
+        "longitude": "-43.1769"
+    },
+    {
+        "sequential": 359,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9003",
+        "longitude": "-43.1769"
+    },
+    {
+        "sequential": 360,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.9001",
+        "longitude": "-43.177"
+    },
+    {
+        "sequential": 361,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8997",
+        "longitude": "-43.1771"
+    },
+    {
+        "sequential": 362,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8997",
+        "longitude": "-43.1771"
+    },
+    {
+        "sequential": 363,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8991",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 364,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8991",
+        "longitude": "-43.1772"
+    },
+    {
+        "sequential": 365,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8993",
+        "longitude": "-43.1778"
+    },
+    {
+        "sequential": 366,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8993",
+        "longitude": "-43.1778"
+    },
+    {
+        "sequential": 367,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8995",
+        "longitude": "-43.1784"
+    },
+    {
+        "sequential": 368,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17369294",
+        "latitude": "-22.8996",
+        "longitude": "-43.1788"
+    },
+    {
+        "sequential": 0,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.8996",
+        "longitude": "-43.1788"
+    },
+    {
+        "sequential": -1,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.8996",
+        "longitude": "-43.1788"
+    },
+    {
+        "sequential": -2,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.8996",
+        "longitude": "-43.179"
+    },
+    {
+        "sequential": -3,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.8998",
+        "longitude": "-43.1796"
+    },
+    {
+        "sequential": -4,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.8998",
+        "longitude": "-43.1796"
+    },
+    {
+        "sequential": -5,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9003",
+        "longitude": "-43.1795"
+    },
+    {
+        "sequential": -6,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9003",
+        "longitude": "-43.1795"
+    },
+    {
+        "sequential": -7,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.901",
+        "longitude": "-43.1792"
+    },
+    {
+        "sequential": -8,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.901",
+        "longitude": "-43.1792"
+    },
+    {
+        "sequential": -9,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9012",
+        "longitude": "-43.1791"
+    },
+    {
+        "sequential": -10,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9012",
+        "longitude": "-43.1791"
+    },
+    {
+        "sequential": -11,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9013",
+        "longitude": "-43.1795"
+    },
+    {
+        "sequential": -12,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9018",
+        "longitude": "-43.181"
+    },
+    {
+        "sequential": -13,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9018",
+        "longitude": "-43.1813"
+    },
+    {
+        "sequential": -14,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9019",
+        "longitude": "-43.1815"
+    },
+    {
+        "sequential": -15,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9019",
+        "longitude": "-43.1815"
+    },
+    {
+        "sequential": -16,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9027",
+        "longitude": "-43.184"
+    },
+    {
+        "sequential": -17,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9027",
+        "longitude": "-43.184"
+    },
+    {
+        "sequential": -18,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9028",
+        "longitude": "-43.1842"
+    },
+    {
+        "sequential": -19,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9028",
+        "longitude": "-43.1842"
+    },
+    {
+        "sequential": -20,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9032",
+        "longitude": "-43.1854"
+    },
+    {
+        "sequential": -21,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9041",
+        "longitude": "-43.1883"
+    },
+    {
+        "sequential": -22,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9041",
+        "longitude": "-43.1883"
+    },
+    {
+        "sequential": -23,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9043",
+        "longitude": "-43.1888"
+    },
+    {
+        "sequential": -24,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9049",
+        "longitude": "-43.1906"
+    },
+    {
+        "sequential": -25,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9049",
+        "longitude": "-43.1906"
+    },
+    {
+        "sequential": -26,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.905",
+        "longitude": "-43.191"
+    },
+    {
+        "sequential": -27,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.905",
+        "longitude": "-43.191"
+    },
+    {
+        "sequential": -28,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9057",
+        "longitude": "-43.1931"
+    },
+    {
+        "sequential": -29,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9062",
+        "longitude": "-43.1947"
+    },
+    {
+        "sequential": -30,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9062",
+        "longitude": "-43.1947"
+    },
+    {
+        "sequential": -31,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9065",
+        "longitude": "-43.1958"
+    },
+    {
+        "sequential": -32,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9066",
+        "longitude": "-43.1962"
+    },
+    {
+        "sequential": -33,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9067",
+        "longitude": "-43.1967"
+    },
+    {
+        "sequential": -34,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9067",
+        "longitude": "-43.1967"
+    },
+    {
+        "sequential": -35,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.907",
+        "longitude": "-43.1975"
+    },
+    {
+        "sequential": -36,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.907",
+        "longitude": "-43.1976"
+    },
+    {
+        "sequential": -37,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9072",
+        "longitude": "-43.1981"
+    },
+    {
+        "sequential": -38,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9072",
+        "longitude": "-43.1981"
+    },
+    {
+        "sequential": -39,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9077",
+        "longitude": "-43.1997"
+    },
+    {
+        "sequential": -40,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9081",
+        "longitude": "-43.2008"
+    },
+    {
+        "sequential": -41,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9081",
+        "longitude": "-43.2008"
+    },
+    {
+        "sequential": -42,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9082",
+        "longitude": "-43.2011"
+    },
+    {
+        "sequential": -43,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9084",
+        "longitude": "-43.2018"
+    },
+    {
+        "sequential": -44,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9084",
+        "longitude": "-43.2018"
+    },
+    {
+        "sequential": -45,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9086",
+        "longitude": "-43.2025"
+    },
+    {
+        "sequential": -46,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9089",
+        "longitude": "-43.2034"
+    },
+    {
+        "sequential": -47,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9092",
+        "longitude": "-43.2044"
+    },
+    {
+        "sequential": -48,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9092",
+        "longitude": "-43.2044"
+    },
+    {
+        "sequential": -49,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9098",
+        "longitude": "-43.2062"
+    },
+    {
+        "sequential": -50,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9098",
+        "longitude": "-43.2062"
+    },
+    {
+        "sequential": -51,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2072"
+    },
+    {
+        "sequential": -52,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2074"
+    },
+    {
+        "sequential": -53,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2075"
+    },
+    {
+        "sequential": -54,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2075"
+    },
+    {
+        "sequential": -55,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2076"
+    },
+    {
+        "sequential": -56,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2078"
+    },
+    {
+        "sequential": -57,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2079"
+    },
+    {
+        "sequential": -58,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2091"
+    },
+    {
+        "sequential": -59,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2095"
+    },
+    {
+        "sequential": -60,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2097"
+    },
+    {
+        "sequential": -61,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -62,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2099"
+    },
+    {
+        "sequential": -63,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": -64,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9099",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -65,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.91",
+        "longitude": "-43.2104"
+    },
+    {
+        "sequential": -66,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.91",
+        "longitude": "-43.2105"
+    },
+    {
+        "sequential": -67,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.91",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -68,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.91",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -69,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9101",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -70,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9101",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -71,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9102",
+        "longitude": "-43.2107"
+    },
+    {
+        "sequential": -72,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9103",
+        "longitude": "-43.2109"
+    },
+    {
+        "sequential": -73,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9104",
+        "longitude": "-43.2109"
+    },
+    {
+        "sequential": -74,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9105",
+        "longitude": "-43.211"
+    },
+    {
+        "sequential": -75,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9106",
+        "longitude": "-43.211"
+    },
+    {
+        "sequential": -76,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9107",
+        "longitude": "-43.211"
+    },
+    {
+        "sequential": -77,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9107",
+        "longitude": "-43.2109"
+    },
+    {
+        "sequential": -78,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9108",
+        "longitude": "-43.2109"
+    },
+    {
+        "sequential": -79,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9108",
+        "longitude": "-43.2109"
+    },
+    {
+        "sequential": -80,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9109",
+        "longitude": "-43.2107"
+    },
+    {
+        "sequential": -81,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9109",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -82,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9109",
+        "longitude": "-43.2106"
+    },
+    {
+        "sequential": -83,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.911",
+        "longitude": "-43.2103"
+    },
+    {
+        "sequential": -84,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.911",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -85,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.911",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -86,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9111",
+        "longitude": "-43.2101"
+    },
+    {
+        "sequential": -87,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9111",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": -88,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9113",
+        "longitude": "-43.2099"
+    },
+    {
+        "sequential": -89,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9115",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -90,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9116",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -91,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9117",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -92,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9119",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -93,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.912",
+        "longitude": "-43.2098"
+    },
+    {
+        "sequential": -94,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9125",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": -95,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9128",
+        "longitude": "-43.21"
+    },
+    {
+        "sequential": -96,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.913",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -97,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.913",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -98,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9131",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -99,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9132",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -100,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9137",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -101,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9142",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -102,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9142",
+        "longitude": "-43.2102"
+    },
+    {
+        "sequential": -103,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9149",
+        "longitude": "-43.2103"
+    },
+    {
+        "sequential": -104,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9153",
+        "longitude": "-43.2103"
+    },
+    {
+        "sequential": -105,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9157",
+        "longitude": "-43.2103"
+    },
+    {
+        "sequential": -106,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9157",
+        "longitude": "-43.2103"
+    },
+    {
+        "sequential": -107,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9159",
+        "longitude": "-43.2111"
+    },
+    {
+        "sequential": -108,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9159",
+        "longitude": "-43.2113"
+    },
+    {
+        "sequential": -109,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9159",
+        "longitude": "-43.2113"
+    },
+    {
+        "sequential": -110,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9159",
+        "longitude": "-43.2113"
+    },
+    {
+        "sequential": -111,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9162",
+        "longitude": "-43.2121"
+    },
+    {
+        "sequential": -112,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9162",
+        "longitude": "-43.2123"
+    },
+    {
+        "sequential": -113,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9162",
+        "longitude": "-43.2123"
+    },
+    {
+        "sequential": -114,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9165",
+        "longitude": "-43.213"
+    },
+    {
+        "sequential": -115,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9165",
+        "longitude": "-43.213"
+    },
+    {
+        "sequential": -116,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9167",
+        "longitude": "-43.2135"
+    },
+    {
+        "sequential": -117,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9167",
+        "longitude": "-43.2135"
+    },
+    {
+        "sequential": -118,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9171",
+        "longitude": "-43.2146"
+    },
+    {
+        "sequential": -119,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9171",
+        "longitude": "-43.2146"
+    },
+    {
+        "sequential": -120,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9173",
+        "longitude": "-43.215"
+    },
+    {
+        "sequential": -121,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9173",
+        "longitude": "-43.215"
+    },
+    {
+        "sequential": -122,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9174",
+        "longitude": "-43.2154"
+    },
+    {
+        "sequential": -123,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9174",
+        "longitude": "-43.2154"
+    },
+    {
+        "sequential": -124,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9175",
+        "longitude": "-43.2156"
+    },
+    {
+        "sequential": -125,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9175",
+        "longitude": "-43.2156"
+    },
+    {
+        "sequential": -126,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.918",
+        "longitude": "-43.2168"
+    },
+    {
+        "sequential": -127,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9181",
+        "longitude": "-43.2169"
+    },
+    {
+        "sequential": -128,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9182",
+        "longitude": "-43.2173"
+    },
+    {
+        "sequential": -129,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9182",
+        "longitude": "-43.2173"
+    },
+    {
+        "sequential": -130,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9187",
+        "longitude": "-43.2184"
+    },
+    {
+        "sequential": -131,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9187",
+        "longitude": "-43.2184"
+    },
+    {
+        "sequential": -132,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.919",
+        "longitude": "-43.2192"
+    },
+    {
+        "sequential": -133,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9191",
+        "longitude": "-43.2195"
+    },
+    {
+        "sequential": -134,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9191",
+        "longitude": "-43.2195"
+    },
+    {
+        "sequential": -135,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9193",
+        "longitude": "-43.2199"
+    },
+    {
+        "sequential": -136,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9198",
+        "longitude": "-43.2208"
+    },
+    {
+        "sequential": -137,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9198",
+        "longitude": "-43.2208"
+    },
+    {
+        "sequential": -138,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.92",
+        "longitude": "-43.2213"
+    },
+    {
+        "sequential": -139,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.92",
+        "longitude": "-43.2213"
+    },
+    {
+        "sequential": -140,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.92",
+        "longitude": "-43.2213"
+    },
+    {
+        "sequential": -141,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.92",
+        "longitude": "-43.2213"
+    },
+    {
+        "sequential": -142,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9203",
+        "longitude": "-43.2217"
+    },
+    {
+        "sequential": -143,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9204",
+        "longitude": "-43.2221"
+    },
+    {
+        "sequential": -144,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9204",
+        "longitude": "-43.2221"
+    },
+    {
+        "sequential": -145,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9205",
+        "longitude": "-43.2222"
+    },
+    {
+        "sequential": -146,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9206",
+        "longitude": "-43.2224"
+    },
+    {
+        "sequential": -147,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9206",
+        "longitude": "-43.2225"
+    },
+    {
+        "sequential": -148,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9207",
+        "longitude": "-43.2227"
+    },
+    {
+        "sequential": -149,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9207",
+        "longitude": "-43.2227"
+    },
+    {
+        "sequential": -150,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9207",
+        "longitude": "-43.223"
+    },
+    {
+        "sequential": -151,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2232"
+    },
+    {
+        "sequential": -152,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2237"
+    },
+    {
+        "sequential": -153,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2237"
+    },
+    {
+        "sequential": -154,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2239"
+    },
+    {
+        "sequential": -155,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2239"
+    },
+    {
+        "sequential": -156,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.225"
+    },
+    {
+        "sequential": -157,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.225"
+    },
+    {
+        "sequential": -158,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2251"
+    },
+    {
+        "sequential": -159,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2255"
+    },
+    {
+        "sequential": -160,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2258"
+    },
+    {
+        "sequential": -161,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9208",
+        "longitude": "-43.2258"
+    },
+    {
+        "sequential": -162,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9209",
+        "longitude": "-43.2263"
+    },
+    {
+        "sequential": -163,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9209",
+        "longitude": "-43.2266"
+    },
+    {
+        "sequential": -164,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.921",
+        "longitude": "-43.2266"
+    },
+    {
+        "sequential": -165,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.921",
+        "longitude": "-43.2266"
+    },
+    {
+        "sequential": -166,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.921",
+        "longitude": "-43.2268"
+    },
+    {
+        "sequential": -167,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9211",
+        "longitude": "-43.227"
+    },
+    {
+        "sequential": -168,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9212",
+        "longitude": "-43.2273"
+    },
+    {
+        "sequential": -169,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9212",
+        "longitude": "-43.2273"
+    },
+    {
+        "sequential": -170,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9213",
+        "longitude": "-43.2275"
+    },
+    {
+        "sequential": -171,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9215",
+        "longitude": "-43.2281"
+    },
+    {
+        "sequential": -172,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9215",
+        "longitude": "-43.2281"
+    },
+    {
+        "sequential": -173,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9219",
+        "longitude": "-43.2291"
+    },
+    {
+        "sequential": -174,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9219",
+        "longitude": "-43.2291"
+    },
+    {
+        "sequential": -175,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9222",
+        "longitude": "-43.2297"
+    },
+    {
+        "sequential": -176,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9223",
+        "longitude": "-43.2299"
+    },
+    {
+        "sequential": -177,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9223",
+        "longitude": "-43.2299"
+    },
+    {
+        "sequential": -178,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9224",
+        "longitude": "-43.2303"
+    },
+    {
+        "sequential": -179,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9224",
+        "longitude": "-43.2303"
+    },
+    {
+        "sequential": -180,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.923",
+        "longitude": "-43.2312"
+    },
+    {
+        "sequential": -181,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.923",
+        "longitude": "-43.2312"
+    },
+    {
+        "sequential": -182,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9233",
+        "longitude": "-43.2316"
+    },
+    {
+        "sequential": -183,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9238",
+        "longitude": "-43.2324"
+    },
+    {
+        "sequential": -184,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9238",
+        "longitude": "-43.2324"
+    },
+    {
+        "sequential": -185,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9245",
+        "longitude": "-43.2333"
+    },
+    {
+        "sequential": -186,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9246",
+        "longitude": "-43.2335"
+    },
+    {
+        "sequential": -187,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9246",
+        "longitude": "-43.2335"
+    },
+    {
+        "sequential": -188,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9252",
+        "longitude": "-43.2343"
+    },
+    {
+        "sequential": -189,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9253",
+        "longitude": "-43.2344"
+    },
+    {
+        "sequential": -190,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9256",
+        "longitude": "-43.2347"
+    },
+    {
+        "sequential": -191,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9256",
+        "longitude": "-43.2347"
+    },
+    {
+        "sequential": -192,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9257",
+        "longitude": "-43.2349"
+    },
+    {
+        "sequential": -193,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9257",
+        "longitude": "-43.2349"
+    },
+    {
+        "sequential": -194,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9259",
+        "longitude": "-43.235"
+    },
+    {
+        "sequential": -195,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9263",
+        "longitude": "-43.2353"
+    },
+    {
+        "sequential": -196,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9263",
+        "longitude": "-43.2353"
+    },
+    {
+        "sequential": -197,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9268",
+        "longitude": "-43.2356"
+    },
+    {
+        "sequential": -198,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9268",
+        "longitude": "-43.2356"
+    },
+    {
+        "sequential": -199,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9271",
+        "longitude": "-43.2358"
+    },
+    {
+        "sequential": -200,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9273",
+        "longitude": "-43.236"
+    },
+    {
+        "sequential": -201,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9278",
+        "longitude": "-43.2362"
+    },
+    {
+        "sequential": -202,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9278",
+        "longitude": "-43.2362"
+    },
+    {
+        "sequential": -203,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9279",
+        "longitude": "-43.2363"
+    },
+    {
+        "sequential": -204,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9282",
+        "longitude": "-43.2365"
+    },
+    {
+        "sequential": -205,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9287",
+        "longitude": "-43.2368"
+    },
+    {
+        "sequential": -206,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9287",
+        "longitude": "-43.2368"
+    },
+    {
+        "sequential": -207,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9289",
+        "longitude": "-43.2369"
+    },
+    {
+        "sequential": -208,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9296",
+        "longitude": "-43.2373"
+    },
+    {
+        "sequential": -209,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9298",
+        "longitude": "-43.2374"
+    },
+    {
+        "sequential": -210,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9298",
+        "longitude": "-43.2374"
+    },
+    {
+        "sequential": -211,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.93",
+        "longitude": "-43.2375"
+    },
+    {
+        "sequential": -212,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9302",
+        "longitude": "-43.2377"
+    },
+    {
+        "sequential": -213,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9306",
+        "longitude": "-43.238"
+    },
+    {
+        "sequential": -214,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9308",
+        "longitude": "-43.2383"
+    },
+    {
+        "sequential": -215,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9308",
+        "longitude": "-43.2383"
+    },
+    {
+        "sequential": -216,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9311",
+        "longitude": "-43.2386"
+    },
+    {
+        "sequential": -217,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9313",
+        "longitude": "-43.2389"
+    },
+    {
+        "sequential": -218,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9313",
+        "longitude": "-43.2389"
+    },
+    {
+        "sequential": -219,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9314",
+        "longitude": "-43.239"
+    },
+    {
+        "sequential": -220,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9317",
+        "longitude": "-43.2395"
+    },
+    {
+        "sequential": -221,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9318",
+        "longitude": "-43.2397"
+    },
+    {
+        "sequential": -222,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9318",
+        "longitude": "-43.2397"
+    },
+    {
+        "sequential": -223,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9321",
+        "longitude": "-43.2404"
+    },
+    {
+        "sequential": -224,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9323",
+        "longitude": "-43.2407"
+    },
+    {
+        "sequential": -225,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9324",
+        "longitude": "-43.2411"
+    },
+    {
+        "sequential": -226,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9324",
+        "longitude": "-43.2411"
+    },
+    {
+        "sequential": -227,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9326",
+        "longitude": "-43.2413"
+    },
+    {
+        "sequential": -228,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9328",
+        "longitude": "-43.2415"
+    },
+    {
+        "sequential": -229,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9328",
+        "longitude": "-43.2415"
+    },
+    {
+        "sequential": -230,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.933",
+        "longitude": "-43.2416"
+    },
+    {
+        "sequential": -231,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.933",
+        "longitude": "-43.2417"
+    },
+    {
+        "sequential": -232,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9331",
+        "longitude": "-43.2417"
+    },
+    {
+        "sequential": -233,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9331",
+        "longitude": "-43.2417"
+    },
+    {
+        "sequential": -234,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9334",
+        "longitude": "-43.2419"
+    },
+    {
+        "sequential": -235,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9334",
+        "longitude": "-43.2419"
+    },
+    {
+        "sequential": -236,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.934",
+        "longitude": "-43.2425"
+    },
+    {
+        "sequential": -237,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.934",
+        "longitude": "-43.2425"
+    },
+    {
+        "sequential": -238,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9343",
+        "longitude": "-43.2427"
+    },
+    {
+        "sequential": -239,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9345",
+        "longitude": "-43.243"
+    },
+    {
+        "sequential": -240,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9345",
+        "longitude": "-43.243"
+    },
+    {
+        "sequential": -241,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9353",
+        "longitude": "-43.2437"
+    },
+    {
+        "sequential": -242,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9353",
+        "longitude": "-43.2437"
+    },
+    {
+        "sequential": -243,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9357",
+        "longitude": "-43.2442"
+    },
+    {
+        "sequential": -244,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9357",
+        "longitude": "-43.2442"
+    },
+    {
+        "sequential": -245,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9361",
+        "longitude": "-43.2447"
+    },
+    {
+        "sequential": -246,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9367",
+        "longitude": "-43.2453"
+    },
+    {
+        "sequential": -247,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9367",
+        "longitude": "-43.2453"
+    },
+    {
+        "sequential": -248,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.937",
+
+        "longitude": "-43.2456"
+    },
+    {
+        "sequential": -249,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.937",
+        "longitude": "-43.2456"
+    },
+    {
+        "sequential": -250,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9372",
+        "longitude": "-43.2459"
+    },
+    {
+        "sequential": -251,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9372",
+        "longitude": "-43.2459"
+    },
+    {
+        "sequential": -252,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9377",
+        "longitude": "-43.2464"
+    },
+    {
+        "sequential": -253,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9377",
+        "longitude": "-43.2464"
+    },
+    {
+        "sequential": -254,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9382",
+        "longitude": "-43.2469"
+    },
+    {
+        "sequential": -255,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9382",
+        "longitude": "-43.2469"
+    },
+    {
+        "sequential": -256,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9385",
+        "longitude": "-43.2472"
+    },
+    {
+        "sequential": -257,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9385",
+        "longitude": "-43.2472"
+    },
+    {
+        "sequential": -258,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9386",
+        "longitude": "-43.2474"
+    },
+    {
+        "sequential": -259,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9388",
+        "longitude": "-43.2476"
+    },
+    {
+        "sequential": -260,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9388",
+        "longitude": "-43.2476"
+    },
+    {
+        "sequential": -261,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9391",
+        "longitude": "-43.2479"
+    },
+    {
+        "sequential": -262,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9393",
+        "longitude": "-43.2483"
+    },
+    {
+        "sequential": -263,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9394",
+        "longitude": "-43.2485"
+    },
+    {
+        "sequential": -264,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9394",
+        "longitude": "-43.2485"
+    },
+    {
+        "sequential": -265,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9395",
+        "longitude": "-43.2486"
+    },
+    {
+        "sequential": -266,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9397",
+        "longitude": "-43.2488"
+    },
+    {
+        "sequential": -267,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9397",
+        "longitude": "-43.2488"
+    },
+    {
+        "sequential": -268,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9399",
+        "longitude": "-43.2491"
+    },
+    {
+        "sequential": -269,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9399",
+        "longitude": "-43.2491"
+    },
+    {
+        "sequential": -270,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.94",
+        "longitude": "-43.2493"
+    },
+    {
+        "sequential": -271,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9403",
+        "longitude": "-43.2497"
+    },
+    {
+        "sequential": -272,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9403",
+        "longitude": "-43.2497"
+    },
+    {
+        "sequential": -273,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9405",
+        "longitude": "-43.25"
+    },
+    {
+        "sequential": -274,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9406",
+        "longitude": "-43.2501"
+    },
+    {
+        "sequential": -275,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9406",
+        "longitude": "-43.2503"
+    },
+    {
+        "sequential": -276,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9406",
+        "longitude": "-43.2503"
+    },
+    {
+        "sequential": -277,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9408",
+        "longitude": "-43.2507"
+    },
+    {
+        "sequential": -278,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9412",
+        "longitude": "-43.252"
+    },
+    {
+        "sequential": -279,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9412",
+        "longitude": "-43.252"
+    },
+    {
+        "sequential": -280,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9412",
+        "longitude": "-43.2521"
+    },
+    {
+        "sequential": -281,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9412",
+        "longitude": "-43.2521"
+    },
+    {
+        "sequential": -282,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9413",
+        "longitude": "-43.2522"
+    },
+    {
+        "sequential": -283,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9413",
+        "longitude": "-43.2522"
+    },
+    {
+        "sequential": -284,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9413",
+        "longitude": "-43.2523"
+    },
+    {
+        "sequential": -285,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9413",
+        "longitude": "-43.2523"
+    },
+    {
+        "sequential": -286,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9415",
+        "longitude": "-43.2525"
+    },
+    {
+        "sequential": -287,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9417",
+        "longitude": "-43.2527"
+    },
+    {
+        "sequential": -288,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9421",
+        "longitude": "-43.2532"
+    },
+    {
+        "sequential": -289,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9421",
+        "longitude": "-43.2532"
+    },
+    {
+        "sequential": -290,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9423",
+        "longitude": "-43.2534"
+    },
+    {
+        "sequential": -291,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9424",
+        "longitude": "-43.2535"
+    },
+    {
+        "sequential": -292,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9425",
+        "longitude": "-43.2535"
+    },
+    {
+        "sequential": -293,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9426",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": -294,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9426",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": -295,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9427",
+        "longitude": "-43.2536"
+    },
+    {
+        "sequential": -296,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9433",
+        "longitude": "-43.254"
+    },
+    {
+        "sequential": -297,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9434",
+        "longitude": "-43.254"
+    },
+    {
+        "sequential": -298,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9437",
+        "longitude": "-43.2541"
+    },
+    {
+        "sequential": -299,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.944",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": -300,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.944",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": -301,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9444",
+        "longitude": "-43.2542"
+    },
+    {
+        "sequential": -302,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9449",
+        "longitude": "-43.2543"
+    },
+    {
+        "sequential": -303,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9449",
+        "longitude": "-43.2543"
+    },
+    {
+        "sequential": -304,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.945",
+        "longitude": "-43.2543"
+    },
+    {
+        "sequential": -305,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9451",
+        "longitude": "-43.2544"
+    },
+    {
+        "sequential": -306,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9452",
+        "longitude": "-43.2545"
+    },
+    {
+        "sequential": -307,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9456",
+        "longitude": "-43.2548"
+    },
+    {
+        "sequential": -308,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9459",
+        "longitude": "-43.2552"
+    },
+    {
+        "sequential": -309,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9463",
+        "longitude": "-43.2556"
+    },
+    {
+        "sequential": -310,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9465",
+        "longitude": "-43.2557"
+    },
+    {
+        "sequential": -311,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9466",
+        "longitude": "-43.2559"
+    },
+    {
+        "sequential": -312,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2566"
+    },
+    {
+        "sequential": -313,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2567"
+    },
+    {
+        "sequential": -314,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2567"
+    },
+    {
+        "sequential": -315,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2568"
+    },
+    {
+        "sequential": -316,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2568"
+    },
+    {
+        "sequential": -317,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9469",
+        "longitude": "-43.2569"
+    },
+    {
+        "sequential": -318,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9468",
+        "longitude": "-43.257"
+    },
+    {
+        "sequential": -319,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9468",
+        "longitude": "-43.257"
+    },
+    {
+        "sequential": -320,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9465",
+        "longitude": "-43.2574"
+    },
+    {
+        "sequential": -321,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9465",
+        "longitude": "-43.2574"
+    },
+    {
+        "sequential": -322,
+        "line": "220",
+        "description": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR",
+        "agency": "Fetranspor",
+        "shape": "17621878",
+        "latitude": "-22.9464",
+        "longitude": "-43.2576"
+    }
+]

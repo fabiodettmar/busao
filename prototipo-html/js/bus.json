@@ -1,0 +1,222 @@
+﻿[
+    {
+        "line": 220,
+        "order": "A50073",
+        "speed": 0.19,
+        "direction": 235,
+        "latitude": -22.917259,
+        "longitude": -43.214424,
+        "timeStamp": "04-27-2015 17:26:12",
+        "sense": "CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR X USINA"
+    },
+    {
+        "line": 220,
+        "order": "A50009",
+        "speed": 32.97,
+        "direction": 67,
+        "latitude": -22.919758,
+        "longitude": -43.215157,
+        "timeStamp": "04-27-2015 17:28:58",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50218",
+        "speed": 0.37,
+        "direction": 34,
+        "latitude": -22.925205,
+        "longitude": -43.233925,
+        "timeStamp": "04-27-2015 17:30:20",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50152",
+        "speed": 5.93,
+        "direction": 52,
+        "latitude": -22.903072,
+        "longitude": -43.184776,
+        "timeStamp": "04-27-2015 17:34:25",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50065",
+        "speed": 0.19,
+        "direction": 135,
+        "latitude": -22.929483,
+        "longitude": -43.253765,
+        "timeStamp": "04-27-2015 17:36:41",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50036",
+        "speed": 0.74,
+        "direction": 221,
+        "latitude": -22.931662,
+        "longitude": -43.239155,
+        "timeStamp": "04-27-2015 17:37:36",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50216",
+        "speed": 10.56,
+        "direction": 206,
+        "latitude": -22.932102,
+        "longitude": -43.24012,
+        "timeStamp": "04-27-2015 17:38:32",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50221",
+        "speed": 37.04,
+        "direction": 242,
+        "latitude": -22.904171,
+        "longitude": -43.188046,
+        "timeStamp": "04-27-2015 17:41:22",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50006",
+        "speed": 0.19,
+        "direction": 36,
+        "latitude": -22.905807,
+        "longitude": -43.192432,
+        "timeStamp": "04-27-2015 17:43:55",
+        "sense": "CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR X USINA"
+    },
+    {
+        "line": 220,
+        "order": "A50219",
+        "speed": 35.56,
+        "direction": 243,
+        "latitude": -22.910275,
+        "longitude": -43.20779,
+        "timeStamp": "04-27-2015 17:48:46",
+        "sense": "CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR X USINA"
+    },
+    {
+        "line": 220,
+        "order": "A50222",
+        "speed": 34.26,
+        "direction": 65,
+        "latitude": -22.921551,
+        "longitude": -43.220356,
+        "timeStamp": "04-27-2015 17:48:50",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50142",
+        "speed": 21.48,
+        "direction": 40,
+        "latitude": -22.921803,
+        "longitude": -43.220928,
+        "timeStamp": "04-27-2015 17:48:57",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50200",
+        "speed": 23.52,
+        "direction": 230,
+        "latitude": -22.926064,
+        "longitude": -43.235058,
+        "timeStamp": "04-27-2015 17:48:59",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50015",
+        "speed": 0.19,
+        "direction": 37,
+        "latitude": -22.909363,
+        "longitude": -43.200443,
+        "timeStamp": "04-27-2015 17:49:03",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50084",
+        "speed": 3.52,
+        "direction": 182,
+        "latitude": -22.91242,
+        "longitude": -43.209694,
+        "timeStamp": "04-27-2015 17:50:18",
+        "sense": "CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR X USINA"
+    },
+    {
+        "line": 220,
+        "order": "A50016",
+        "speed": 0.37,
+        "direction": 42,
+        "latitude": -22.930504,
+        "longitude": -43.237789,
+        "timeStamp": "04-27-2015 17:50:37",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50066",
+        "speed": 2.96,
+        "direction": 210,
+        "latitude": -22.935707,
+        "longitude": -43.243965,
+        "timeStamp": "04-27-2015 17:51:35",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50017",
+        "speed": 43.15,
+        "direction": 47,
+        "latitude": -22.905291,
+        "longitude": -43.191002,
+        "timeStamp": "04-27-2015 17:53:12",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50079",
+        "speed": 4.44,
+        "direction": 220,
+        "latitude": -22.92407,
+        "longitude": -43.232491,
+        "timeStamp": "04-27-2015 17:53:35",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50220",
+        "speed": 40,
+        "direction": 242,
+        "latitude": -22.909592,
+        "longitude": -43.20533,
+        "timeStamp": "04-27-2015 17:53:43",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50010",
+        "speed": 5.93,
+        "direction": 42,
+        "latitude": -22.902569,
+        "longitude": -43.183125,
+        "timeStamp": "04-27-2015 17:54:06",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    },
+    {
+        "line": 220,
+        "order": "A50026",
+        "speed": 46.49,
+        "direction": 38,
+        "latitude": -22.909441,
+        "longitude": -43.201019,
+        "timeStamp": "04-27-2015 17:54:31",
+        "sense": "USINA X CANDELARIA (VIA HADDOCK LOBO) - CIRCULAR"
+    }
+]
